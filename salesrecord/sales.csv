@@ -1,0 +1,801 @@
+Order_ID,Date,Product,Category,Region,Quantity,Price
+1001,2025-02-04,Router,Electronics,North,5,4969
+1002,2025-03-15,Printer,Electronics,West,1,15895
+1003,2025-03-23,Speaker,Accessories,East,7,4080
+1004,2025-07-09,Pendrive,Accessories,East,7,1550
+1005,2025-07-07,Router,Electronics,West,7,2190
+1006,2025-03-09,Laptop,Electronics,South,8,55486
+1007,2025-03-01,Mouse,Accessories,West,1,515
+1008,2025-07-16,Power Bank,Accessories,East,2,3113
+1009,2025-07-01,Keyboard,Accessories,East,5,2132
+1010,2025-02-25,Router,Electronics,West,5,6862
+1011,2025-06-18,Speaker,Accessories,East,5,3652
+1012,2025-08-21,Headphones,Accessories,West,7,2889
+1013,2025-05-06,SSD,Electronics,South,6,5399
+1014,2025-12-08,Speaker,Accessories,North,4,2849
+1015,2025-01-01,USB Cable,Accessories,North,3,494
+1016,2025-06-27,Power Bank,Accessories,South,4,3467
+1017,2025-04-13,Headphones,Accessories,East,3,3672
+1018,2025-08-09,Laptop,Electronics,South,8,63564
+1019,2025-09-22,Webcam,Electronics,East,8,3818
+1020,2025-03-28,Monitor,Electronics,East,2,14530
+1021,2025-11-01,Laptop,Electronics,East,4,68693
+1022,2025-06-16,Smart Watch,Electronics,North,4,8644
+1023,2025-05-26,Speaker,Accessories,West,4,3965
+1024,2025-06-21,Speaker,Accessories,East,3,4132
+1025,2025-11-19,Pendrive,Accessories,East,1,1129
+1026,2025-04-20,USB Cable,Accessories,North,4,340
+1027,2025-09-30,Keyboard,Accessories,East,7,1901
+1028,2025-06-25,USB Cable,Accessories,North,8,200
+1029,2025-06-18,Smart Watch,Electronics,East,2,11233
+1030,2025-11-23,Speaker,Accessories,South,4,4397
+1031,2025-03-23,Microphone,Electronics,South,7,7023
+1032,2025-02-18,Microphone,Electronics,North,6,5349
+1033,2025-10-30,Router,Electronics,North,3,6294
+1034,2025-04-13,Pendrive,Accessories,North,4,1721
+1035,2025-06-25,Pendrive,Accessories,South,8,606
+1036,2025-11-17,Printer,Electronics,South,3,14833
+1037,2025-09-12,Router,Electronics,South,5,2229
+1038,2025-11-30,Microphone,Electronics,West,7,2605
+1039,2025-10-24,Mouse,Accessories,East,7,758
+1040,2025-09-22,Pendrive,Accessories,South,3,716
+1041,2025-02-07,Headphones,Accessories,North,3,1978
+1042,2025-07-20,Webcam,Electronics,North,6,5018
+1043,2025-07-16,Power Bank,Accessories,West,3,1076
+1044,2025-12-03,Printer,Electronics,West,5,12261
+1045,2025-01-01,Smart Watch,Electronics,North,1,10539
+1046,2025-09-09,Monitor,Electronics,South,7,17063
+1047,2025-06-29,Speaker,Accessories,West,7,2034
+1048,2025-11-23,SSD,Electronics,South,4,7145
+1049,2025-01-29,Webcam,Electronics,South,6,2381
+1050,2025-08-17,Speaker,Accessories,North,4,2782
+1051,2025-02-21,Printer,Electronics,North,6,15433
+1052,2025-08-03,Webcam,Electronics,West,2,3990
+1053,2025-01-06,Pendrive,Accessories,North,3,1543
+1054,2025-01-29,Keyboard,Accessories,West,3,1616
+1055,2025-05-24,Microphone,Electronics,South,3,2093
+1056,2025-02-18,Mouse,Accessories,South,5,434
+1057,2025-02-19,Laptop,Electronics,North,7,59157
+1058,2025-04-08,SSD,Electronics,North,2,7024
+1059,2025-07-12,Headphones,Accessories,West,3,4566
+1060,2025-09-02,Power Bank,Accessories,South,4,1624
+1061,2025-11-02,Microphone,Electronics,South,2,3929
+1062,2025-10-27,Headphones,Accessories,South,6,3338
+1063,2025-01-26,Speaker,Accessories,North,6,3740
+1064,2025-10-24,Printer,Electronics,West,3,17366
+1065,2025-05-18,Router,Electronics,North,7,6381
+1066,2025-01-29,Laptop,Electronics,South,3,67744
+1067,2025-08-05,Printer,Electronics,South,2,17487
+1068,2025-01-18,Keyboard,Accessories,South,7,1447
+1069,2025-07-17,Mouse,Accessories,South,2,395
+1070,2025-12-09,Monitor,Electronics,South,7,22279
+1071,2025-05-25,Webcam,Electronics,South,3,3316
+1072,2025-09-03,Keyboard,Accessories,North,8,1968
+1073,2025-11-23,Printer,Electronics,South,5,10142
+1074,2025-11-22,Printer,Electronics,South,7,16988
+1075,2025-06-18,Pendrive,Accessories,North,6,558
+1076,2025-02-26,Mouse,Accessories,North,5,515
+1077,2025-02-04,Mouse,Accessories,South,4,405
+1078,2025-10-14,Pendrive,Accessories,North,4,1143
+1079,2025-05-29,SSD,Electronics,West,8,4915
+1080,2025-01-20,Smart Watch,Electronics,West,4,10281
+1081,2025-06-19,SSD,Electronics,South,2,5095
+1082,2025-09-19,USB Cable,Accessories,North,5,278
+1083,2025-02-07,Laptop,Electronics,East,6,55784
+1084,2025-04-01,Router,Electronics,North,6,4628
+1085,2025-03-16,Mouse,Accessories,East,6,657
+1086,2025-10-19,Webcam,Electronics,West,5,4106
+1087,2025-10-04,Headphones,Accessories,East,8,3131
+1088,2025-03-22,Router,Electronics,South,7,2593
+1089,2025-06-03,SSD,Electronics,East,1,6900
+1090,2025-01-06,Smart Watch,Electronics,West,3,9873
+1091,2025-03-10,Printer,Electronics,South,5,9647
+1092,2025-02-12,Router,Electronics,West,7,5426
+1093,2025-02-05,Speaker,Accessories,West,3,1824
+1094,2025-03-22,Power Bank,Accessories,South,5,865
+1095,2025-07-15,USB Cable,Accessories,West,4,398
+1096,2025-10-30,Keyboard,Accessories,North,6,1716
+1097,2025-08-06,Router,Electronics,South,4,4941
+1098,2025-02-09,Smart Watch,Electronics,South,2,6776
+1099,2025-08-05,Pendrive,Accessories,East,3,495
+1100,2025-05-31,USB Cable,Accessories,South,1,317
+1101,2025-04-14,Router,Electronics,North,3,5775
+1102,2025-09-30,Speaker,Accessories,West,7,2076
+1103,2025-09-07,Printer,Electronics,West,4,14446
+1104,2025-06-29,SSD,Electronics,South,8,3107
+1105,2025-08-29,Speaker,Accessories,West,7,1262
+1106,2025-10-04,Router,Electronics,North,8,5916
+1107,2025-08-26,SSD,Electronics,East,3,6627
+1108,2025-05-10,Router,Electronics,West,4,2392
+1109,2025-09-03,Microphone,Electronics,East,7,3696
+1110,2025-09-05,Mouse,Accessories,East,1,761
+1111,2025-03-27,USB Cable,Accessories,South,3,447
+1112,2025-09-03,Monitor,Electronics,East,6,19182
+1113,2025-08-20,USB Cable,Accessories,North,3,170
+1114,2025-04-18,Mouse,Accessories,South,4,324
+1115,2025-09-07,Headphones,Accessories,West,8,1140
+1116,2025-06-27,Microphone,Electronics,West,1,6176
+1117,2025-08-28,Power Bank,Accessories,South,8,3049
+1118,2025-01-17,Laptop,Electronics,South,1,64344
+1119,2025-11-23,Keyboard,Accessories,North,2,953
+1120,2025-12-21,USB Cable,Accessories,North,8,262
+1121,2025-07-07,Printer,Electronics,South,4,12950
+1122,2025-06-07,Laptop,Electronics,West,5,68082
+1123,2025-07-02,Power Bank,Accessories,South,8,1850
+1124,2025-09-08,Pendrive,Accessories,South,4,1221
+1125,2025-06-04,Mouse,Accessories,East,4,647
+1126,2025-12-26,Pendrive,Accessories,East,2,1396
+1127,2025-09-20,Speaker,Accessories,West,6,3491
+1128,2025-06-09,Pendrive,Accessories,South,4,1456
+1129,2025-10-16,Printer,Electronics,South,3,15323
+1130,2025-02-07,USB Cable,Accessories,West,4,334
+1131,2025-05-19,Laptop,Electronics,South,3,62478
+1132,2025-12-07,Printer,Electronics,North,4,10365
+1133,2025-08-09,Pendrive,Accessories,West,2,1151
+1134,2025-08-31,Printer,Electronics,East,3,11170
+1135,2025-12-10,Keyboard,Accessories,South,7,2031
+1136,2025-08-14,USB Cable,Accessories,West,7,173
+1137,2025-06-07,Power Bank,Accessories,South,2,3137
+1138,2025-01-16,Monitor,Electronics,West,4,23296
+1139,2025-10-31,Headphones,Accessories,East,3,3989
+1140,2025-05-28,Speaker,Accessories,North,3,3691
+1141,2025-12-26,Monitor,Electronics,North,5,21841
+1142,2025-05-29,Keyboard,Accessories,West,7,955
+1143,2025-06-17,SSD,Electronics,East,5,5879
+1144,2025-02-08,USB Cable,Accessories,West,3,464
+1145,2025-03-23,Keyboard,Accessories,North,6,1593
+1146,2025-01-04,SSD,Electronics,West,6,5760
+1147,2025-01-17,Power Bank,Accessories,West,8,1005
+1148,2025-02-19,Laptop,Electronics,South,6,59099
+1149,2025-08-18,Pendrive,Accessories,West,3,702
+1150,2025-09-26,Headphones,Accessories,North,7,4100
+1151,2025-03-27,Mouse,Accessories,South,1,363
+1152,2025-02-16,Router,Electronics,South,5,5694
+1153,2025-08-26,Router,Electronics,North,2,5608
+1154,2025-12-06,Microphone,Electronics,South,7,3028
+1155,2025-08-30,Power Bank,Accessories,North,2,3401
+1156,2025-03-12,Mouse,Accessories,East,4,719
+1157,2025-01-23,Keyboard,Accessories,North,4,1028
+1158,2025-09-29,Power Bank,Accessories,East,1,3050
+1159,2025-02-19,Monitor,Electronics,West,5,14712
+1160,2025-01-09,Microphone,Electronics,East,5,3165
+1161,2025-03-16,SSD,Electronics,North,4,7771
+1162,2025-03-06,Monitor,Electronics,West,7,17224
+1163,2025-02-11,Speaker,Accessories,East,8,4265
+1164,2025-04-23,SSD,Electronics,East,8,6752
+1165,2025-01-22,Smart Watch,Electronics,West,6,7165
+1166,2025-09-14,Laptop,Electronics,West,7,56994
+1167,2025-07-08,Webcam,Electronics,South,7,5826
+1168,2025-05-02,Monitor,Electronics,North,5,16155
+1169,2025-03-09,Mouse,Accessories,South,8,554
+1170,2025-10-15,Power Bank,Accessories,West,6,893
+1171,2025-10-17,Router,Electronics,West,1,6568
+1172,2025-02-24,Microphone,Electronics,South,4,2401
+1173,2025-07-31,USB Cable,Accessories,North,6,260
+1174,2025-01-16,Speaker,Accessories,West,1,1564
+1175,2025-07-20,Webcam,Electronics,East,1,3155
+1176,2025-01-23,Laptop,Electronics,East,2,66245
+1177,2025-05-16,Laptop,Electronics,South,2,65725
+1178,2025-05-30,Power Bank,Accessories,West,5,3413
+1179,2025-02-12,Speaker,Accessories,West,6,2777
+1180,2025-02-22,Headphones,Accessories,West,8,2476
+1181,2025-04-20,Webcam,Electronics,East,8,4910
+1182,2025-12-17,SSD,Electronics,West,6,4704
+1183,2025-10-03,Smart Watch,Electronics,East,8,9668
+1184,2025-09-16,Pendrive,Accessories,West,3,760
+1185,2025-12-17,Webcam,Electronics,North,1,1540
+1186,2025-02-18,Microphone,Electronics,West,7,3534
+1187,2025-01-01,Headphones,Accessories,South,7,1883
+1188,2025-09-04,Printer,Electronics,West,6,16765
+1189,2025-02-13,Mouse,Accessories,South,6,388
+1190,2025-11-02,Speaker,Accessories,West,4,4640
+1191,2025-09-19,Mouse,Accessories,East,6,376
+1192,2025-12-15,Keyboard,Accessories,East,7,2070
+1193,2025-12-02,Pendrive,Accessories,East,7,1629
+1194,2025-11-24,Keyboard,Accessories,East,1,1448
+1195,2025-06-04,Laptop,Electronics,East,8,59520
+1196,2025-03-29,Keyboard,Accessories,South,4,2334
+1197,2025-05-13,Mouse,Accessories,West,3,635
+1198,2025-10-14,Laptop,Electronics,North,6,61586
+1199,2025-12-16,SSD,Electronics,West,1,4543
+1200,2025-09-19,Printer,Electronics,North,2,12305
+1201,2025-10-16,Smart Watch,Electronics,West,7,10566
+1202,2025-08-26,Smart Watch,Electronics,South,4,11552
+1203,2025-01-19,Speaker,Accessories,North,7,4236
+1204,2025-08-07,Keyboard,Accessories,North,4,1279
+1205,2025-10-24,Microphone,Electronics,North,7,4385
+1206,2025-12-25,Headphones,Accessories,West,7,2382
+1207,2025-02-21,Microphone,Electronics,North,4,5847
+1208,2025-08-26,Microphone,Electronics,North,4,4701
+1209,2025-06-10,Laptop,Electronics,South,4,56272
+1210,2025-08-17,Pendrive,Accessories,East,7,1065
+1211,2025-01-21,Headphones,Accessories,West,1,1545
+1212,2025-08-11,SSD,Electronics,South,1,7127
+1213,2025-04-24,Pendrive,Accessories,North,5,1146
+1214,2025-12-06,Speaker,Accessories,East,5,4974
+1215,2025-01-24,Mouse,Accessories,North,6,667
+1216,2025-08-14,SSD,Electronics,South,1,6393
+1217,2025-12-31,Microphone,Electronics,East,4,6008
+1218,2025-10-02,Webcam,Electronics,East,2,4213
+1219,2025-06-01,Speaker,Accessories,South,3,3039
+1220,2025-12-30,Webcam,Electronics,South,7,3594
+1221,2025-03-16,Router,Electronics,North,6,3465
+1222,2025-11-22,Smart Watch,Electronics,North,1,8042
+1223,2025-04-24,Laptop,Electronics,South,3,63957
+1224,2025-10-17,Monitor,Electronics,North,6,19075
+1225,2025-08-15,SSD,Electronics,South,4,4635
+1226,2025-06-25,Speaker,Accessories,East,7,3648
+1227,2025-04-11,Laptop,Electronics,West,8,66856
+1228,2025-01-31,Laptop,Electronics,East,5,68252
+1229,2025-11-18,Pendrive,Accessories,West,1,1377
+1230,2025-12-15,Headphones,Accessories,South,3,1729
+1231,2025-10-27,SSD,Electronics,West,8,4737
+1232,2025-12-02,Monitor,Electronics,East,3,14855
+1233,2025-11-10,Power Bank,Accessories,West,5,2783
+1234,2025-07-03,Microphone,Electronics,East,4,2271
+1235,2025-11-24,SSD,Electronics,North,3,6336
+1236,2025-03-02,Printer,Electronics,East,1,17493
+1237,2025-12-01,Pendrive,Accessories,South,4,1636
+1238,2025-07-12,USB Cable,Accessories,West,8,206
+1239,2025-07-05,Mouse,Accessories,South,8,362
+1240,2025-04-26,Microphone,Electronics,East,4,6377
+1241,2025-03-01,USB Cable,Accessories,North,7,475
+1242,2025-08-04,Power Bank,Accessories,West,4,1232
+1243,2025-10-21,Smart Watch,Electronics,East,1,9282
+1244,2025-10-16,Speaker,Accessories,South,2,2208
+1245,2025-06-14,SSD,Electronics,North,5,7117
+1246,2025-03-10,Printer,Electronics,West,6,11195
+1247,2025-02-20,Pendrive,Accessories,North,1,1646
+1248,2025-10-03,Router,Electronics,West,1,3521
+1249,2025-07-28,Monitor,Electronics,South,8,12155
+1250,2025-02-26,Router,Electronics,East,1,4482
+1251,2025-11-28,Microphone,Electronics,North,6,2490
+1252,2025-04-20,Pendrive,Accessories,South,1,1437
+1253,2025-05-09,Smart Watch,Electronics,West,4,9935
+1254,2025-02-04,Laptop,Electronics,North,6,64488
+1255,2025-09-25,Smart Watch,Electronics,East,6,8633
+1256,2025-05-17,Router,Electronics,South,5,2968
+1257,2025-09-08,Smart Watch,Electronics,South,7,3260
+1258,2025-10-19,Printer,Electronics,South,7,10059
+1259,2025-07-08,Headphones,Accessories,West,7,1954
+1260,2025-06-23,Webcam,Electronics,West,5,3536
+1261,2025-02-18,Smart Watch,Electronics,North,1,4390
+1262,2025-01-20,SSD,Electronics,East,3,5126
+1263,2025-01-05,Pendrive,Accessories,East,7,1324
+1264,2025-08-26,Monitor,Electronics,North,3,13462
+1265,2025-10-29,Pendrive,Accessories,South,4,630
+1266,2025-01-12,Pendrive,Accessories,East,2,1629
+1267,2025-09-30,Router,Electronics,West,7,5828
+1268,2025-10-01,Headphones,Accessories,South,8,1614
+1269,2025-02-15,Pendrive,Accessories,North,8,1343
+1270,2025-03-21,Keyboard,Accessories,South,7,1964
+1271,2025-06-22,Speaker,Accessories,West,4,4518
+1272,2025-03-01,USB Cable,Accessories,South,6,363
+1273,2025-11-28,Mouse,Accessories,West,7,734
+1274,2025-03-18,Speaker,Accessories,South,7,1430
+1275,2025-11-17,Speaker,Accessories,North,4,3245
+1276,2025-05-08,Router,Electronics,South,8,4113
+1277,2025-04-12,SSD,Electronics,South,4,6504
+1278,2025-08-09,USB Cable,Accessories,East,7,329
+1279,2025-11-07,Webcam,Electronics,West,4,1880
+1280,2025-04-07,Speaker,Accessories,West,6,4711
+1281,2025-08-16,Printer,Electronics,North,6,15875
+1282,2025-07-24,Keyboard,Accessories,South,4,1121
+1283,2025-08-11,Router,Electronics,East,5,6884
+1284,2025-12-08,Router,Electronics,North,4,2849
+1285,2025-01-30,USB Cable,Accessories,South,4,185
+1286,2025-03-31,Laptop,Electronics,North,3,66538
+1287,2025-06-12,Speaker,Accessories,East,8,4267
+1288,2025-12-29,Microphone,Electronics,East,5,4981
+1289,2025-04-02,Headphones,Accessories,North,8,3109
+1290,2025-03-21,Headphones,Accessories,East,7,4932
+1291,2025-06-21,Smart Watch,Electronics,North,6,7184
+1292,2025-02-12,Power Bank,Accessories,East,8,1907
+1293,2025-04-24,USB Cable,Accessories,East,5,288
+1294,2025-04-05,Headphones,Accessories,North,8,3255
+1295,2025-12-13,USB Cable,Accessories,South,7,275
+1296,2025-03-26,SSD,Electronics,East,1,7134
+1297,2025-05-27,Laptop,Electronics,West,7,59760
+1298,2025-12-25,USB Cable,Accessories,South,7,411
+1299,2025-03-31,Mouse,Accessories,West,8,706
+1300,2025-07-23,Speaker,Accessories,South,1,1456
+1301,2025-05-24,Pendrive,Accessories,North,5,901
+1302,2025-06-08,Microphone,Electronics,West,6,4685
+1303,2025-06-22,Laptop,Electronics,West,6,55195
+1304,2025-07-07,Smart Watch,Electronics,South,3,3499
+1305,2025-04-29,Power Bank,Accessories,North,2,1913
+1306,2025-01-16,Power Bank,Accessories,East,8,2287
+1307,2025-11-24,Pendrive,Accessories,West,2,1479
+1308,2025-01-11,Smart Watch,Electronics,North,7,10233
+1309,2025-05-19,Power Bank,Accessories,South,4,1452
+1310,2025-06-26,Mouse,Accessories,East,5,443
+1311,2025-03-27,Monitor,Electronics,South,2,20343
+1312,2025-01-10,Pendrive,Accessories,East,8,676
+1313,2025-04-18,Headphones,Accessories,East,8,4630
+1314,2025-04-12,Microphone,Electronics,East,7,7163
+1315,2025-02-24,Microphone,Electronics,West,8,6355
+1316,2025-01-08,Smart Watch,Electronics,North,5,8518
+1317,2025-04-23,Mouse,Accessories,South,8,716
+1318,2025-05-01,Speaker,Accessories,West,5,4961
+1319,2025-10-14,USB Cable,Accessories,South,1,245
+1320,2025-02-03,SSD,Electronics,South,8,3974
+1321,2025-10-22,Laptop,Electronics,East,6,60503
+1322,2025-07-01,Monitor,Electronics,North,5,23732
+1323,2025-11-29,Laptop,Electronics,South,7,61118
+1324,2025-10-27,Keyboard,Accessories,North,5,2444
+1325,2025-09-24,Headphones,Accessories,South,3,4006
+1326,2025-01-01,SSD,Electronics,East,2,3165
+1327,2025-10-23,Monitor,Electronics,East,7,18043
+1328,2025-05-10,Monitor,Electronics,East,1,17258
+1329,2025-02-10,Webcam,Electronics,North,2,5679
+1330,2025-05-29,Speaker,Accessories,East,4,3126
+1331,2025-10-19,Router,Electronics,North,3,2130
+1332,2025-01-01,USB Cable,Accessories,East,4,199
+1333,2025-03-11,USB Cable,Accessories,West,6,276
+1334,2025-07-29,Webcam,Electronics,East,3,3658
+1335,2025-05-10,Pendrive,Accessories,North,1,893
+1336,2025-12-26,Speaker,Accessories,East,8,4211
+1337,2025-03-05,Mouse,Accessories,West,8,779
+1338,2025-01-01,Speaker,Accessories,South,5,4029
+1339,2025-08-19,SSD,Electronics,North,4,6124
+1340,2025-10-10,Laptop,Electronics,South,1,57210
+1341,2025-05-13,Laptop,Electronics,East,5,69963
+1342,2025-09-28,Speaker,Accessories,North,1,4234
+1343,2025-11-03,Pendrive,Accessories,West,7,1681
+1344,2025-05-20,Webcam,Electronics,North,3,2466
+1345,2025-10-31,Laptop,Electronics,North,5,66762
+1346,2025-05-08,Power Bank,Accessories,South,7,2311
+1347,2025-08-04,Keyboard,Accessories,North,4,1144
+1348,2025-03-28,SSD,Electronics,East,7,6638
+1349,2025-05-04,Power Bank,Accessories,North,7,2838
+1350,2025-01-03,Pendrive,Accessories,East,6,1783
+1351,2025-04-08,Pendrive,Accessories,North,7,1506
+1352,2025-11-25,Webcam,Electronics,North,3,3213
+1353,2025-09-12,Smart Watch,Electronics,West,5,5157
+1354,2025-01-24,Mouse,Accessories,West,4,709
+1355,2025-03-08,Speaker,Accessories,North,8,3692
+1356,2025-06-29,Power Bank,Accessories,South,7,1541
+1357,2025-11-07,USB Cable,Accessories,North,3,472
+1358,2025-02-19,USB Cable,Accessories,North,8,313
+1359,2025-11-20,Printer,Electronics,East,1,14754
+1360,2025-02-23,Microphone,Electronics,West,8,7867
+1361,2025-07-12,Webcam,Electronics,West,5,5869
+1362,2025-06-29,Pendrive,Accessories,North,1,873
+1363,2025-12-10,Microphone,Electronics,South,7,2555
+1364,2025-05-23,Headphones,Accessories,North,8,1454
+1365,2025-01-04,Power Bank,Accessories,East,6,1381
+1366,2025-06-01,Smart Watch,Electronics,North,4,4290
+1367,2025-10-26,Power Bank,Accessories,North,4,2342
+1368,2025-06-15,Mouse,Accessories,East,6,419
+1369,2025-06-22,Pendrive,Accessories,West,8,479
+1370,2025-06-09,Power Bank,Accessories,South,6,968
+1371,2025-12-28,Keyboard,Accessories,West,6,2409
+1372,2025-07-02,Smart Watch,Electronics,East,2,8927
+1373,2025-01-20,Smart Watch,Electronics,East,1,8024
+1374,2025-04-06,Printer,Electronics,South,4,14945
+1375,2025-01-07,Laptop,Electronics,West,5,67159
+1376,2025-06-16,Laptop,Electronics,South,5,66461
+1377,2025-01-20,Webcam,Electronics,East,3,5840
+1378,2025-06-11,SSD,Electronics,South,4,3501
+1379,2025-10-11,Monitor,Electronics,North,6,22180
+1380,2025-02-05,Laptop,Electronics,North,1,58724
+1381,2025-01-23,Printer,Electronics,East,5,13415
+1382,2025-07-20,Router,Electronics,East,7,6502
+1383,2025-01-29,Monitor,Electronics,East,8,22613
+1384,2025-02-19,Power Bank,Accessories,South,4,2805
+1385,2025-05-16,Printer,Electronics,West,7,16509
+1386,2025-02-01,Keyboard,Accessories,North,6,2279
+1387,2025-08-13,Printer,Electronics,South,8,11515
+1388,2025-01-22,Keyboard,Accessories,South,3,2456
+1389,2025-01-17,USB Cable,Accessories,South,2,455
+1390,2025-11-22,Router,Electronics,West,7,2748
+1391,2025-09-10,Mouse,Accessories,South,3,663
+1392,2025-05-03,Headphones,Accessories,North,8,1593
+1393,2025-12-09,Webcam,Electronics,South,6,5853
+1394,2025-12-28,USB Cable,Accessories,South,5,485
+1395,2025-02-19,Printer,Electronics,West,3,15416
+1396,2025-11-06,Power Bank,Accessories,West,7,3304
+1397,2025-08-26,Mouse,Accessories,West,1,682
+1398,2025-04-03,Power Bank,Accessories,East,8,2718
+1399,2025-07-25,Microphone,Electronics,South,6,7444
+1400,2025-10-23,USB Cable,Accessories,East,8,469
+1401,2025-02-08,Mouse,Accessories,West,4,697
+1402,2025-08-15,Monitor,Electronics,South,6,14574
+1403,2025-05-03,SSD,Electronics,North,5,2985
+1404,2025-06-08,Laptop,Electronics,East,1,63984
+1405,2025-10-19,Keyboard,Accessories,North,7,1348
+1406,2025-12-18,Power Bank,Accessories,North,6,3094
+1407,2025-09-09,Webcam,Electronics,East,5,5032
+1408,2025-02-03,Laptop,Electronics,East,1,61354
+1409,2025-04-16,Router,Electronics,North,7,6456
+1410,2025-09-27,Monitor,Electronics,South,8,12668
+1411,2025-12-02,Speaker,Accessories,West,2,4122
+1412,2025-03-31,Power Bank,Accessories,North,5,1848
+1413,2025-06-24,Printer,Electronics,South,5,10392
+1414,2025-12-23,Router,Electronics,North,1,6832
+1415,2025-07-15,Printer,Electronics,East,2,9420
+1416,2025-04-09,Printer,Electronics,North,1,16748
+1417,2025-04-18,Speaker,Accessories,South,7,3197
+1418,2025-07-15,SSD,Electronics,South,2,6786
+1419,2025-09-08,Printer,Electronics,South,8,13430
+1420,2025-06-18,Smart Watch,Electronics,South,4,8488
+1421,2025-09-04,Keyboard,Accessories,West,1,1194
+1422,2025-03-10,Microphone,Electronics,East,1,4793
+1423,2025-12-10,USB Cable,Accessories,West,4,373
+1424,2025-03-09,Printer,Electronics,North,2,14562
+1425,2025-10-20,Speaker,Accessories,East,7,2856
+1426,2025-02-04,Router,Electronics,South,3,2763
+1427,2025-01-10,Microphone,Electronics,West,6,4323
+1428,2025-12-07,Headphones,Accessories,East,8,2017
+1429,2025-02-23,USB Cable,Accessories,East,5,390
+1430,2025-08-16,Webcam,Electronics,North,5,5324
+1431,2025-01-11,Webcam,Electronics,East,2,4101
+1432,2025-06-20,Laptop,Electronics,West,3,59026
+1433,2025-04-14,Mouse,Accessories,West,6,413
+1434,2025-07-21,Microphone,Electronics,West,1,4444
+1435,2025-06-16,Microphone,Electronics,West,6,7628
+1436,2025-04-17,SSD,Electronics,West,4,6411
+1437,2025-07-09,Webcam,Electronics,West,7,5105
+1438,2025-03-11,Smart Watch,Electronics,West,2,4398
+1439,2025-03-22,Keyboard,Accessories,West,8,1157
+1440,2025-04-15,Smart Watch,Electronics,North,7,11298
+1441,2025-09-20,Smart Watch,Electronics,South,4,9088
+1442,2025-04-03,Router,Electronics,West,6,5655
+1443,2025-04-29,Keyboard,Accessories,East,7,1767
+1444,2025-11-22,Router,Electronics,North,2,6771
+1445,2025-11-30,Keyboard,Accessories,East,6,980
+1446,2025-09-14,Smart Watch,Electronics,South,6,10223
+1447,2025-12-11,USB Cable,Accessories,West,6,235
+1448,2025-12-14,Speaker,Accessories,East,2,3207
+1449,2025-11-17,Mouse,Accessories,South,1,742
+1450,2025-07-20,Laptop,Electronics,West,8,64926
+1451,2025-02-15,Laptop,Electronics,West,3,60312
+1452,2025-03-28,Headphones,Accessories,North,2,2519
+1453,2025-01-17,Microphone,Electronics,West,3,4440
+1454,2025-07-30,USB Cable,Accessories,West,4,423
+1455,2025-03-22,SSD,Electronics,North,7,2893
+1456,2025-05-13,Printer,Electronics,East,3,10806
+1457,2025-09-24,Webcam,Electronics,East,4,5720
+1458,2025-11-02,Keyboard,Accessories,South,1,1294
+1459,2025-12-24,Power Bank,Accessories,South,7,2517
+1460,2025-03-20,Monitor,Electronics,North,1,21670
+1461,2025-10-09,Headphones,Accessories,West,4,2606
+1462,2025-07-01,Webcam,Electronics,North,4,4543
+1463,2025-01-24,Speaker,Accessories,South,3,3647
+1464,2025-10-23,Monitor,Electronics,West,5,12194
+1465,2025-01-05,Power Bank,Accessories,South,6,1609
+1466,2025-03-24,Webcam,Electronics,East,5,5643
+1467,2025-06-14,Pendrive,Accessories,East,3,1028
+1468,2025-04-09,Microphone,Electronics,South,8,8764
+1469,2025-08-21,Router,Electronics,South,3,4108
+1470,2025-08-03,Microphone,Electronics,North,5,3478
+1471,2025-12-05,Printer,Electronics,West,2,11680
+1472,2025-06-06,Power Bank,Accessories,East,1,1274
+1473,2025-06-28,USB Cable,Accessories,South,1,499
+1474,2025-02-25,Keyboard,Accessories,North,2,1503
+1475,2025-02-25,Speaker,Accessories,South,2,3670
+1476,2025-09-26,Router,Electronics,South,6,6506
+1477,2025-02-15,Speaker,Accessories,North,1,4717
+1478,2025-08-09,SSD,Electronics,West,4,7553
+1479,2025-06-30,Laptop,Electronics,West,6,68559
+1480,2025-05-11,Webcam,Electronics,East,8,1611
+1481,2025-06-27,Monitor,Electronics,East,7,22737
+1482,2025-02-16,Pendrive,Accessories,South,6,1344
+1483,2025-07-20,Mouse,Accessories,South,1,716
+1484,2025-05-02,Speaker,Accessories,North,8,1612
+1485,2025-07-05,Smart Watch,Electronics,South,6,10393
+1486,2025-06-19,Webcam,Electronics,South,1,4191
+1487,2025-03-22,Smart Watch,Electronics,South,1,10502
+1488,2025-08-18,Keyboard,Accessories,North,2,1826
+1489,2025-04-06,Speaker,Accessories,North,3,2217
+1490,2025-08-23,Power Bank,Accessories,North,8,3117
+1491,2025-09-26,Router,Electronics,North,2,2147
+1492,2025-10-12,Power Bank,Accessories,East,8,2434
+1493,2025-10-28,Monitor,Electronics,South,5,21270
+1494,2025-12-15,Printer,Electronics,West,6,17513
+1495,2025-12-14,Smart Watch,Electronics,East,5,10330
+1496,2025-11-21,Microphone,Electronics,East,8,6634
+1497,2025-07-22,SSD,Electronics,North,5,4421
+1498,2025-03-15,Smart Watch,Electronics,East,3,3499
+1499,2025-01-29,Webcam,Electronics,North,3,4598
+1500,2025-01-08,Microphone,Electronics,North,6,3247
+1501,2025-12-13,Power Bank,Accessories,West,3,1104
+1502,2025-03-21,Monitor,Electronics,East,6,21880
+1503,2025-12-02,Power Bank,Accessories,East,6,1548
+1504,2025-12-25,Speaker,Accessories,West,4,2207
+1505,2025-05-02,Microphone,Electronics,West,5,7951
+1506,2025-08-10,Mouse,Accessories,South,1,480
+1507,2025-12-15,Pendrive,Accessories,East,7,690
+1508,2025-11-27,USB Cable,Accessories,West,6,376
+1509,2025-05-30,Headphones,Accessories,South,4,2525
+1510,2025-04-22,Webcam,Electronics,East,7,5038
+1511,2025-03-01,Mouse,Accessories,East,8,775
+1512,2025-12-23,Mouse,Accessories,South,7,599
+1513,2025-02-01,Microphone,Electronics,North,7,4326
+1514,2025-07-23,Keyboard,Accessories,West,4,2175
+1515,2025-10-07,Webcam,Electronics,South,1,5477
+1516,2025-08-31,Monitor,Electronics,East,1,21255
+1517,2025-07-21,Smart Watch,Electronics,North,6,5659
+1518,2025-07-07,Monitor,Electronics,West,8,18628
+1519,2025-10-19,Smart Watch,Electronics,West,3,10828
+1520,2025-05-15,Smart Watch,Electronics,East,6,11192
+1521,2025-09-29,Speaker,Accessories,North,2,3773
+1522,2025-09-26,Webcam,Electronics,North,1,1765
+1523,2025-09-03,Webcam,Electronics,West,2,2291
+1524,2025-09-17,Headphones,Accessories,West,3,4592
+1525,2025-08-02,USB Cable,Accessories,South,2,316
+1526,2025-05-22,USB Cable,Accessories,North,5,322
+1527,2025-06-17,Laptop,Electronics,North,6,63303
+1528,2025-10-07,Keyboard,Accessories,North,8,923
+1529,2025-04-22,Laptop,Electronics,North,8,58563
+1530,2025-05-14,SSD,Electronics,South,7,5562
+1531,2025-11-26,Laptop,Electronics,East,2,62869
+1532,2025-06-02,SSD,Electronics,South,6,3515
+1533,2025-06-14,Router,Electronics,West,5,4385
+1534,2025-06-08,Mouse,Accessories,West,6,595
+1535,2025-05-10,Power Bank,Accessories,North,3,2256
+1536,2025-01-22,Keyboard,Accessories,South,7,2185
+1537,2025-05-04,Microphone,Electronics,West,1,4104
+1538,2025-04-24,SSD,Electronics,South,5,3890
+1539,2025-12-24,Laptop,Electronics,North,4,68665
+1540,2025-08-15,USB Cable,Accessories,South,8,432
+1541,2025-01-26,Printer,Electronics,West,1,11137
+1542,2025-02-05,Laptop,Electronics,West,8,65638
+1543,2025-09-20,SSD,Electronics,East,2,4459
+1544,2025-12-15,Microphone,Electronics,South,8,3507
+1545,2025-07-05,Speaker,Accessories,North,7,1634
+1546,2025-02-21,Laptop,Electronics,South,8,66362
+1547,2025-06-05,SSD,Electronics,North,5,6129
+1548,2025-03-11,USB Cable,Accessories,North,2,201
+1549,2025-04-12,USB Cable,Accessories,East,8,192
+1550,2025-12-05,Headphones,Accessories,South,6,2374
+1551,2025-07-15,Pendrive,Accessories,East,1,1277
+1552,2025-04-21,Laptop,Electronics,South,8,59326
+1553,2025-10-09,Keyboard,Accessories,West,3,890
+1554,2025-02-05,SSD,Electronics,South,6,4355
+1555,2025-05-06,Microphone,Electronics,East,6,2091
+1556,2025-08-09,Headphones,Accessories,South,1,4325
+1557,2025-05-05,Speaker,Accessories,West,6,2847
+1558,2025-10-24,Smart Watch,Electronics,West,2,9862
+1559,2025-10-08,Webcam,Electronics,South,6,4508
+1560,2025-01-30,Mouse,Accessories,South,3,334
+1561,2025-07-25,Mouse,Accessories,West,5,494
+1562,2025-02-12,Speaker,Accessories,South,6,4594
+1563,2025-06-03,SSD,Electronics,West,2,5996
+1564,2025-05-08,Keyboard,Accessories,North,3,2181
+1565,2025-02-27,Monitor,Electronics,North,2,13188
+1566,2025-08-12,Webcam,Electronics,West,7,2949
+1567,2025-07-03,Monitor,Electronics,East,5,21265
+1568,2025-04-24,Microphone,Electronics,North,7,6991
+1569,2025-04-10,Monitor,Electronics,North,4,12621
+1570,2025-12-30,Mouse,Accessories,East,7,775
+1571,2025-03-12,Monitor,Electronics,East,3,17838
+1572,2025-10-15,Microphone,Electronics,West,5,5485
+1573,2025-09-10,Keyboard,Accessories,South,7,1658
+1574,2025-08-19,Webcam,Electronics,South,1,5660
+1575,2025-12-07,Headphones,Accessories,North,3,1668
+1576,2025-10-19,Monitor,Electronics,East,3,22679
+1577,2025-03-23,Smart Watch,Electronics,North,1,4858
+1578,2025-09-28,Printer,Electronics,West,2,13462
+1579,2025-10-04,Router,Electronics,South,3,1859
+1580,2025-05-14,SSD,Electronics,West,5,2649
+1581,2025-09-10,Pendrive,Accessories,North,3,625
+1582,2025-09-05,Printer,Electronics,East,4,10007
+1583,2025-12-31,Mouse,Accessories,North,7,321
+1584,2025-02-18,SSD,Electronics,North,5,3382
+1585,2025-08-31,Smart Watch,Electronics,East,3,8700
+1586,2025-09-12,Laptop,Electronics,East,4,65188
+1587,2025-05-31,Webcam,Electronics,East,6,5393
+1588,2025-09-14,Router,Electronics,North,6,5089
+1589,2025-04-18,Keyboard,Accessories,South,8,1251
+1590,2025-10-24,Mouse,Accessories,West,5,373
+1591,2025-03-18,Smart Watch,Electronics,South,3,4828
+1592,2025-09-09,Microphone,Electronics,West,4,7495
+1593,2025-07-05,SSD,Electronics,East,3,2654
+1594,2025-01-16,Headphones,Accessories,South,7,2948
+1595,2025-05-05,USB Cable,Accessories,West,5,437
+1596,2025-08-02,Smart Watch,Electronics,East,6,3180
+1597,2025-02-26,SSD,Electronics,East,5,7333
+1598,2025-04-17,Headphones,Accessories,South,1,2002
+1599,2025-10-14,Laptop,Electronics,West,3,67355
+1600,2025-12-12,SSD,Electronics,South,1,2873
+1601,2025-05-28,Mouse,Accessories,East,1,533
+1602,2025-01-11,Monitor,Electronics,South,8,22895
+1603,2025-06-03,Microphone,Electronics,West,5,8012
+1604,2025-02-03,Power Bank,Accessories,East,7,1011
+1605,2025-01-03,Router,Electronics,South,6,3392
+1606,2025-07-08,Webcam,Electronics,East,7,1959
+1607,2025-09-07,Smart Watch,Electronics,South,5,9255
+1608,2025-05-14,SSD,Electronics,North,5,2836
+1609,2025-01-18,Router,Electronics,East,1,4304
+1610,2025-10-04,SSD,Electronics,West,7,5095
+1611,2025-05-04,Keyboard,Accessories,West,6,1508
+1612,2025-03-22,Laptop,Electronics,North,4,56659
+1613,2025-11-02,Router,Electronics,South,4,4458
+1614,2025-11-03,SSD,Electronics,West,7,7911
+1615,2025-09-14,Headphones,Accessories,East,6,3758
+1616,2025-07-09,Power Bank,Accessories,West,6,3163
+1617,2025-08-09,Keyboard,Accessories,South,8,1501
+1618,2025-05-03,Keyboard,Accessories,North,8,832
+1619,2025-04-27,Power Bank,Accessories,West,5,1550
+1620,2025-05-10,Router,Electronics,South,4,6037
+1621,2025-07-10,Monitor,Electronics,North,3,21057
+1622,2025-05-04,Speaker,Accessories,East,7,2695
+1623,2025-04-23,Printer,Electronics,North,1,10948
+1624,2025-12-01,Speaker,Accessories,North,3,3676
+1625,2025-09-12,Monitor,Electronics,North,6,19162
+1626,2025-04-14,SSD,Electronics,West,1,4790
+1627,2025-11-18,Power Bank,Accessories,North,6,1887
+1628,2025-01-30,Monitor,Electronics,South,8,13241
+1629,2025-02-15,Router,Electronics,East,1,6324
+1630,2025-05-11,Mouse,Accessories,East,7,316
+1631,2025-08-01,SSD,Electronics,North,2,5624
+1632,2025-04-09,Router,Electronics,North,2,5662
+1633,2025-10-10,Microphone,Electronics,North,5,7081
+1634,2025-08-08,Headphones,Accessories,East,5,2902
+1635,2025-04-21,Power Bank,Accessories,East,1,2100
+1636,2025-04-24,Keyboard,Accessories,West,7,1132
+1637,2025-01-19,Router,Electronics,East,6,6684
+1638,2025-06-03,Keyboard,Accessories,East,7,961
+1639,2025-02-14,SSD,Electronics,South,4,6981
+1640,2025-01-28,Printer,Electronics,East,2,9647
+1641,2025-09-23,Printer,Electronics,North,5,11997
+1642,2025-01-05,Microphone,Electronics,West,7,3706
+1643,2025-07-25,Router,Electronics,West,4,5671
+1644,2025-07-21,Mouse,Accessories,West,4,569
+1645,2025-08-05,Smart Watch,Electronics,North,4,3277
+1646,2025-10-16,Speaker,Accessories,North,4,2610
+1647,2025-07-03,Keyboard,Accessories,West,1,1084
+1648,2025-04-18,USB Cable,Accessories,East,6,151
+1649,2025-09-07,Webcam,Electronics,South,5,5941
+1650,2025-06-04,Mouse,Accessories,West,4,442
+1651,2025-07-30,Keyboard,Accessories,North,5,1977
+1652,2025-03-05,Webcam,Electronics,East,2,5476
+1653,2025-01-17,Laptop,Electronics,North,8,63995
+1654,2025-07-20,SSD,Electronics,West,1,7416
+1655,2025-07-04,USB Cable,Accessories,East,4,454
+1656,2025-10-24,Laptop,Electronics,South,6,63461
+1657,2025-01-19,SSD,Electronics,West,4,6814
+1658,2025-04-06,SSD,Electronics,East,6,4883
+1659,2025-01-13,Power Bank,Accessories,East,5,2095
+1660,2025-06-04,Router,Electronics,North,8,3214
+1661,2025-08-06,Laptop,Electronics,North,8,68127
+1662,2025-03-12,Smart Watch,Electronics,West,5,4923
+1663,2025-10-03,Printer,Electronics,South,6,16187
+1664,2025-09-10,Webcam,Electronics,South,7,2830
+1665,2025-03-10,Microphone,Electronics,West,8,8414
+1666,2025-04-23,Keyboard,Accessories,North,1,1270
+1667,2025-06-28,Mouse,Accessories,South,1,689
+1668,2025-02-18,USB Cable,Accessories,East,4,469
+1669,2025-03-08,Microphone,Electronics,South,8,7921
+1670,2025-03-17,Keyboard,Accessories,East,1,2332
+1671,2025-03-08,Microphone,Electronics,East,1,3947
+1672,2025-03-19,Smart Watch,Electronics,East,6,9992
+1673,2025-12-03,Smart Watch,Electronics,North,1,11370
+1674,2025-10-17,Smart Watch,Electronics,North,5,4551
+1675,2025-02-22,Power Bank,Accessories,South,3,1299
+1676,2025-06-11,Power Bank,Accessories,South,4,1376
+1677,2025-12-25,Router,Electronics,South,4,6222
+1678,2025-03-02,Keyboard,Accessories,West,2,1843
+1679,2025-02-20,Webcam,Electronics,East,1,3594
+1680,2025-01-06,Microphone,Electronics,North,6,2204
+1681,2025-08-31,Pendrive,Accessories,East,3,1095
+1682,2025-11-05,Webcam,Electronics,South,5,2348
+1683,2025-12-17,Printer,Electronics,South,8,15993
+1684,2025-03-07,SSD,Electronics,South,3,7175
+1685,2025-01-12,Headphones,Accessories,South,2,1711
+1686,2025-02-25,Pendrive,Accessories,North,3,1754
+1687,2025-09-02,Laptop,Electronics,North,4,67937
+1688,2025-05-10,USB Cable,Accessories,East,7,365
+1689,2025-05-06,Keyboard,Accessories,North,8,2346
+1690,2025-09-12,Printer,Electronics,North,4,12250
+1691,2025-06-10,USB Cable,Accessories,East,5,191
+1692,2025-08-23,Speaker,Accessories,West,4,1440
+1693,2025-01-04,Pendrive,Accessories,North,5,1774
+1694,2025-06-19,Keyboard,Accessories,East,2,1634
+1695,2025-08-30,Speaker,Accessories,West,5,4229
+1696,2025-08-23,Webcam,Electronics,West,7,4609
+1697,2025-03-30,Power Bank,Accessories,West,5,866
+1698,2025-04-07,USB Cable,Accessories,East,6,437
+1699,2025-04-30,Keyboard,Accessories,North,8,1251
+1700,2025-06-21,Printer,Electronics,North,6,14278
+1701,2025-05-23,Headphones,Accessories,East,5,1059
+1702,2025-11-02,Mouse,Accessories,West,4,770
+1703,2025-03-24,Mouse,Accessories,South,4,331
+1704,2025-10-16,Printer,Electronics,West,4,16993
+1705,2025-12-05,USB Cable,Accessories,East,1,454
+1706,2025-02-11,SSD,Electronics,South,7,6780
+1707,2025-09-26,Router,Electronics,South,7,5613
+1708,2025-02-21,Power Bank,Accessories,West,1,1907
+1709,2025-04-11,Power Bank,Accessories,North,3,1702
+1710,2025-10-16,USB Cable,Accessories,West,1,227
+1711,2025-10-29,Printer,Electronics,West,3,13066
+1712,2025-01-26,Webcam,Electronics,West,5,3423
+1713,2025-01-20,Mouse,Accessories,South,3,355
+1714,2025-09-20,Mouse,Accessories,West,7,642
+1715,2025-04-16,Router,Electronics,West,2,3590
+1716,2025-11-30,Headphones,Accessories,South,6,1802
+1717,2025-12-20,USB Cable,Accessories,North,4,469
+1718,2025-04-18,Monitor,Electronics,West,8,17298
+1719,2025-12-28,Router,Electronics,East,5,6322
+1720,2025-05-26,Laptop,Electronics,East,8,58349
+1721,2025-09-10,Mouse,Accessories,West,2,326
+1722,2025-06-30,SSD,Electronics,East,6,4754
+1723,2025-12-17,SSD,Electronics,East,4,6481
+1724,2025-08-04,SSD,Electronics,South,5,5096
+1725,2025-11-10,Smart Watch,Electronics,North,7,10926
+1726,2025-01-07,Monitor,Electronics,South,8,24117
+1727,2025-05-03,Router,Electronics,South,2,2393
+1728,2025-02-24,USB Cable,Accessories,West,5,454
+1729,2025-12-22,Printer,Electronics,South,3,13451
+1730,2025-01-22,Mouse,Accessories,North,1,366
+1731,2025-06-29,Router,Electronics,South,3,4404
+1732,2025-10-14,USB Cable,Accessories,South,2,334
+1733,2025-06-11,SSD,Electronics,North,4,3534
+1734,2025-11-26,Laptop,Electronics,East,2,57137
+1735,2025-02-18,Keyboard,Accessories,North,7,915
+1736,2025-04-21,Webcam,Electronics,South,7,3741
+1737,2025-05-18,Headphones,Accessories,West,8,1948
+1738,2025-01-06,Speaker,Accessories,North,1,2541
+1739,2025-11-07,Mouse,Accessories,North,3,478
+1740,2025-12-17,Keyboard,Accessories,South,2,1359
+1741,2025-09-16,USB Cable,Accessories,South,1,361
+1742,2025-04-08,Keyboard,Accessories,West,3,1837
+1743,2025-03-21,Webcam,Electronics,West,1,2704
+1744,2025-05-10,Speaker,Accessories,North,5,4033
+1745,2025-08-14,Mouse,Accessories,West,2,546
+1746,2025-05-01,Smart Watch,Electronics,East,4,7920
+1747,2025-10-12,USB Cable,Accessories,East,4,152
+1748,2025-09-18,Headphones,Accessories,West,4,4991
+1749,2025-10-21,Headphones,Accessories,East,7,3813
+1750,2025-02-09,Headphones,Accessories,South,4,2125
+1751,2025-02-18,Headphones,Accessories,South,1,1969
+1752,2025-06-26,Router,Electronics,East,6,6677
+1753,2025-10-07,Headphones,Accessories,East,5,3393
+1754,2025-10-01,Headphones,Accessories,East,1,1791
+1755,2025-08-04,Pendrive,Accessories,East,5,534
+1756,2025-03-04,Router,Electronics,South,6,2533
+1757,2025-09-03,Pendrive,Accessories,South,6,1580
+1758,2025-06-29,Mouse,Accessories,East,4,407
+1759,2025-11-23,Router,Electronics,West,4,3474
+1760,2025-04-12,Microphone,Electronics,North,7,2517
+1761,2025-02-08,Microphone,Electronics,North,8,6295
+1762,2025-08-16,Router,Electronics,South,3,2249
+1763,2025-09-02,USB Cable,Accessories,South,7,334
+1764,2025-10-31,Headphones,Accessories,West,1,1948
+1765,2025-06-01,SSD,Electronics,West,2,7076
+1766,2025-06-19,Monitor,Electronics,South,1,18455
+1767,2025-04-21,Router,Electronics,North,6,4433
+1768,2025-08-22,Microphone,Electronics,North,3,7278
+1769,2025-03-27,USB Cable,Accessories,West,7,322
+1770,2025-03-09,Power Bank,Accessories,East,7,805
+1771,2025-07-14,Monitor,Electronics,East,5,18665
+1772,2025-07-29,Webcam,Electronics,North,4,5301
+1773,2025-06-16,Router,Electronics,East,7,6668
+1774,2025-02-20,Webcam,Electronics,South,2,2199
+1775,2025-10-19,Router,Electronics,East,8,5092
+1776,2025-03-12,Keyboard,Accessories,North,3,800
+1777,2025-03-26,Smart Watch,Electronics,North,2,3341
+1778,2025-01-09,Router,Electronics,West,8,4981
+1779,2025-02-21,USB Cable,Accessories,East,8,373
+1780,2025-07-10,Power Bank,Accessories,South,4,3322
+1781,2025-12-16,Laptop,Electronics,South,2,56183
+1782,2025-04-21,Microphone,Electronics,East,1,2197
+1783,2025-07-19,Headphones,Accessories,East,6,4021
+1784,2025-03-07,Monitor,Electronics,East,5,20530
+1785,2025-01-11,Laptop,Electronics,South,6,66114
+1786,2025-03-27,Router,Electronics,West,3,1978
+1787,2025-07-07,Speaker,Accessories,East,1,4119
+1788,2025-01-02,Headphones,Accessories,North,2,2243
+1789,2025-10-06,Webcam,Electronics,South,1,2068
+1790,2025-12-13,Monitor,Electronics,East,7,12343
+1791,2025-12-30,Speaker,Accessories,South,4,4666
+1792,2025-12-22,Webcam,Electronics,West,6,4401
+1793,2025-10-27,Printer,Electronics,East,1,15993
+1794,2025-02-17,Microphone,Electronics,South,2,4736
+1795,2025-09-11,USB Cable,Accessories,West,5,170
+1796,2025-06-06,Headphones,Accessories,East,7,3555
+1797,2025-10-16,Printer,Electronics,East,5,10611
+1798,2025-05-05,Smart Watch,Electronics,West,7,10037
+1799,2025-12-01,SSD,Electronics,South,7,7351
+1800,2025-02-01,SSD,Electronics,North,5,6026
