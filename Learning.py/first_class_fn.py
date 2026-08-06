@@ -35,4 +35,4 @@ def multiply(a, b):
 operations = [add, multiply]
 
 print(operations[0](2, 3))
-print(operations[1](2, 3))
+print(operations[1](2, 3)) 
