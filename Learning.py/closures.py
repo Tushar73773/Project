@@ -20,3 +20,4 @@ def outer():
 
 f=outer()
 f()
+print("python"[0])
