@@ -1,0 +1,16 @@
+class employee:
+    @staticmethod
+    def greet():
+       print("Hello, welcome to the company!")
+
+
+e=employee()
+e.greet()
+
+
+#static_method is used to define a method that does not require access to the instance (self) or class (cls) variables. It can be called on the class
+
+
+
+     
+    
